@@ -4,7 +4,7 @@ It shows the images, deals and pricing of all the hotels and the flights listed 
 Also, special discounted deals are available on combined booking of hotel and flight.
 
 Steps to execute :
-  Clone the repository : 
+  Clone the repository : git clone https://github.com/Chirag7077/BonVoyage.git
   Ensure that python is installed by typing 'python' on command prompt.
   Install the following modules : pillow
                                   tkinter
